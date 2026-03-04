@@ -22,7 +22,7 @@ FIREBASE_DB_URL         = os.environ.get("FIREBASE_DB_URL",         "https://qui
 
 # ⚠️  In dono ko Vercel Dashboard me zaroor set karna!
 MASTER_KEY = os.environ.get("MASTER_KEY", "changeme123")
-BASE_URL   = os.environ.get("BASE_URL",   "https://pixvault-api.vercel.app")
+BASE_URL   = os.environ.get("BASE_URL",   "https://pixvault-api-2.vercel.app")
 
 # ─────────────────────────────────────────
 #  FIREBASE REALTIME DB HELPERS
